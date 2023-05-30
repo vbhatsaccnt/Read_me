@@ -5,7 +5,7 @@ A passionate Engineer focused on bringing Innovation.
 
 <!-- Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social)](https://twitter.com/King3678180)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social)](https://twitter.com/iamVbhatt)
 
 <!-- Projects -->
 ## Projects
