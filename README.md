@@ -20,7 +20,7 @@ A passionate Engineer focused on bringing Innovation.
 
 <!-- Contact -->
 ## Contact
-You can reach me at bhatvikas612@gmail.com (mailto:bhatvikas612@gmail.com) or through [LinkedIn]((https://www.linkedin.com/in/vikas-bhat-a89635116/)).
+You can reach me at bhatvikas612@gmail.com (mailto:bhatvikas612@gmail.com) through [LinkedIn](https://www.linkedin.com/in/vikas-bhat-a89635116/).
 
 <!-- Footer -->
 > Feel free to explore my repositories and get in touch. Let's connect and collaborate!
