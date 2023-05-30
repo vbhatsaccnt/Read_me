@@ -14,10 +14,9 @@ A passionate Engineer focused on bringing Innovation.
 
 <!-- Skills -->
 ## Skills
-- Programming Languages: Java, Python, JavaScript
-- Frameworks: React, Node.js, Django
+- Programming Languages: Python, Java
 - Databases: MySQL, MongoDB
-- Other: HTML, CSS, Git
+- Other: Tableau, PowerBI, Machine Learning
 
 <!-- Contact -->
 ## Contact
